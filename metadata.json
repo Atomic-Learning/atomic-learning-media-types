@@ -1,33 +1,20 @@
 {
-    "title": "",
-    "slug": "",
+    "title": "Atomic Learning: Media Types",
+    "slug": "atomic-learning-media-types",
     "authors": [
-        "",
+        "chris-cooling",
         ""
     ],
     "tags": [
-        "",
-        ""
+        "atomic-learning"
     ],
-    "duration": 0,
+    "duration": 3,
     "prerequisites": [
         {
-            "slug": "",
-            "description": ""
-        },
-        {
-            "slug": "",
-            "description": ""
+            "slug": "atomic-learning-contribution-culture",
+            "description": "Introduces the culture and broad process of contribution to the Atomic Learning platform."
         }
     ],
     "related": [
-        {
-            "slug": "",
-            "description": ""
-        },
-        {
-            "slug": "",
-            "description": ""
-        }
     ]
 }
