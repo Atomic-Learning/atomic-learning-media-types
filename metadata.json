@@ -9,10 +9,7 @@
     ],
     "duration": 3,
     "prerequisites": [
-        {
-            "slug": "atomic-learning-contribution-culture",
-            "description": "Introduces the culture and broad process of contribution to the Atomic Learning platform."
-        }
+        "atomic-learning-contribution-culture"
     ],
     "related": [
     ]
