@@ -13,6 +13,10 @@
         "atomic-learning-contribution-culture"
     ],
     "related": [
+        "atomic-learning-including-images",
+        "atomic-learning-including-hyperlinks",
+        "atomic-learning-including-code",
+        "atomic-learning-including-pseudocode",
         "atomic-learning-creating-python-cells",
         "atomic-learning-creating-r-cells",
         "atomic-learning-creating-codespaces"
